@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4748864_0000.png"; bbox 0 0 3466 4457; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 716 949 2747 2187">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 670 949 2747 2187">
+     <span class='ocr_line' id='line_1_1' title="bbox 895 949 2566 1257; baseline -0.005 -7"><span class='ocrx_word' id='word_1_1' title='bbox 895 949 2566 1257; x_wconf 76' lang='lat' dir='ltr'><strong>MASTER</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 716 1413 2747 1721; baseline -0.004 -6.199"><span class='ocrx_word' id='word_1_2' title='bbox 716 1423 957 1715; x_wconf 97' lang='grc' dir='ltr'>Ν</span> <span class='ocrx_word' id='word_1_3' title='bbox 1012 1413 2747 1721; x_wconf 72' lang='grc' dir='ltr'>ΕΘΑΤΝΕ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 864 1881 2603 2187; baseline -0.004 -6"><span class='ocrx_word' id='word_1_4' title='bbox 864 1881 2603 2187; x_wconf 78' lang='grc' dir='ltr'>ΝυΝΙΒΕΗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 829 2816 2576 3123">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 829 2816 2576 3123">
+     <span class='ocr_line' id='line_1_4' title="bbox 829 2816 2576 3123; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 829 2817 2349 3123; x_wconf 89' lang='grc' dir='ltr'>ΟΟ-255.1</span> <span class='ocrx_word' id='word_1_6' title='bbox 2446 2816 2576 3109; x_wconf 92' lang='grc'>1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
